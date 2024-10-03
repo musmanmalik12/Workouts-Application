@@ -2,7 +2,7 @@
 
 ## Description:
 
-This project is a full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). The app allows users to create, manage, and track their workout routines. It supports user authentication, strong passwords and secure token storage.
+This project is a full-stack application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). The app allows users to create, manage, and track their workout routines. It supports user authentication, strong passwords and secure token storage.
 
 ## Features
 - **User Authentication**: Password hashing with **bcrypt**
